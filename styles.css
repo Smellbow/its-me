@@ -24,7 +24,8 @@ body {
 .site-header {
   position: fixed;
   top: 0;
-  width: 1220px;
+  max-width: 1220px;
+  width: 100%;
   background-color: #fff;
   border-bottom: 1px solid #ccc;
   z-index: 10;
